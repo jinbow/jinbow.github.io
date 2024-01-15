@@ -1,13 +1,6 @@
-# Jinbo Wang
+# Update personal webiste jinbow.github.io 
 
-<div align="center">
+Files for jinbow.github.io saved and compiled locally to generate the _site/* for the personal website 
 
-Study Ocean from Space!
+Modify the _pages/*md and recompile using jekyll b, then copy all new files within _sites/ to ../jinbow.github.io/, then update the jinbow.github.io repo
 
-</div>
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
-
-Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license). Since then, it got a full re-write of the styles and many additional cool features.
